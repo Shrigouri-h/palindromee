@@ -9,4 +9,4 @@ if __name__ == "__main__":
     else:
        
         text = "madam"
-        print(pal(text))
+        print(f"Palindrome: {pal(text)}")
